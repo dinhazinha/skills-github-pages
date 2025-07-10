@@ -25,13 +25,14 @@ Você não precisa saber tudo de cara. O importante é:
 
 ## Recursos Para Iniciantes 
 
-Aqui estão alguns lugares gratuitos e em português onde você pode aprender:
+- Aqui estão alguns lugares gratuitos e em português onde você pode aprender:
 
-| Plataforma | Conteúdo | 
-| Curso em Vídeo | Programação, lógica, redes | 
-| Alura Start | Fundamentos de tecnologia | 
-| Dio.me | Bootcamps e cursos de TI | 
-| YouTube | Tutoriais e dicas de profissionais | 
+| Plataforma       | Conteúdo                          |
+|------------------|-----------------------------------|
+| Curso em Vídeo   | Programação, lógica, redes        |
+| Alura Start      | Fundamentos de tecnologia         |
+| Dio.me           | Bootcamps e cursos de TI          |
+| YouTube          | Tutoriais e dicas de profissionais|
 
 
 
