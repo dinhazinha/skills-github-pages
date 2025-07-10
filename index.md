@@ -1,9 +1,11 @@
 ---
-<h1>Welcome to my blog!</h1>
-<h2> Personal blog!</h2>
+# Welcome to my blog!
+### Personal blog!
 
-<h3>Começando na Área de TI: Por Onde Ir?
-👩‍💻 TI Não É Só Programar!
+# Começando na Área de TI: Por Onde Ir?
+
+## TI Não É Só Programar!
+  
 A primeira coisa que muita gente pensa quando ouve falar em "carreira em TI" é programação. Mas TI é um universo enorme, com várias trilhas possíveis:
 - Suporte Técnico: ajudar pessoas com problemas de computadores, redes e software.
 - Desenvolvimento de Software: criar sites, aplicativos e sistemas.
@@ -13,7 +15,7 @@ A primeira coisa que muita gente pensa quando ouve falar em "carreira em TI" é 
 - UX/UI Design: melhorar a experiência dos usuários em sistemas e apps.
 
   
-<h2> O Que É Preciso Para Começar?</h2>
+## O Que É Preciso Para Começar?
 
 Você não precisa saber tudo de cara. O importante é:
 - Ter curiosidade: querer entender como as coisas funcionam.
@@ -21,7 +23,7 @@ Você não precisa saber tudo de cara. O importante é:
 - Aprender aos poucos: comece com o básico e vá avançando.
 
 
-<h2> Recursos Para Iniciantes </h2>
+## Recursos Para Iniciantes 
 
 Aqui estão alguns lugares gratuitos e em português onde você pode aprender:
 
