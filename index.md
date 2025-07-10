@@ -35,13 +35,11 @@ Aqui estão alguns lugares gratuitos e em português onde você pode aprender:
 
 
 
-<h2> Não Tenha Medo de Errar </h2>
+## Não Tenha Medo de Errar 
 
 A jornada na TI é feita de tentativa e erro. 
 Ninguém começa sabendo tudo. 
 O mais importante é dar o primeiro passo, seja montando um blog, criando um portfólio ou instalando seu primeiro sistema Linux.
 
-
-</h3>
 ## Posts sobre meus avanços na área de tecnlogia.
 ---
