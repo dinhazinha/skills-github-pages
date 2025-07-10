@@ -27,6 +27,7 @@ Você não precisa saber tudo de cara. O importante é:
 
 - Aqui estão alguns lugares gratuitos e em português onde você pode aprender:
 
+
 | Plataforma       | Conteúdo                          |
 |------------------|-----------------------------------|
 | Curso em Vídeo   | Programação, lógica, redes        |
